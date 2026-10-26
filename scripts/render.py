@@ -52,7 +52,7 @@ FIGURES = {
         'colour': [f'color #1 {GREEN} target c', f'color #1 & strand {GREEN_DARK} target c',
                    f'color #1 & :190-290 {AMBER} target c'],
         'ligand': None,
-        'turns': ['turn z 90'],
+        'turns': [],
     },
     # ATG12-ATG5-ATG16N, the complex that attaches ATG8 to membranes.
     'atg16': {
